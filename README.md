@@ -50,7 +50,7 @@ The app uses a soft glam **background image** (`girly.jpeg`) hosted on Hugging F
 
 ---
 
-## 📦 How to Run
+## 📦 WORKING PROTOTYPE
 
 ### 🔧 Option 1: Running on Hugging Face Spaces
 > This project is live! Just click this link to try it out.
